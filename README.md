@@ -1,5 +1,5 @@
 # Hyperblog 💚
-Hyperblog de [cursos de Git y GitHub](https://platzi.com/cursos/git-github/"curso de Git y GitHub") de Platzi.
+Hyperblog de [**cursos de Git y GitHub**](https://platzi.com/cursos/git-github/ "**cursos de Git y GitHub**") de Platzi.
 
 
 > El curso de Git y GitHub de Platzi es lo que me hacía falta
@@ -15,5 +15,5 @@ de lana sinética con Machine Learning.
 * Las personalidades múltiples de Freddy.
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado
-para el ejemplo. Si llegaste hasta aquí NO TE LO TOMES EN SERIO [y
-mejor ve a ver el curso](https://platzi.com/cursos/git-github/"a ver el curso").
+para el ejemplo. Si llegaste hasta aquí NO TE LO TOMES EN SERIO y
+mejor ve a ver el [**curso**](https://platzi.com/cursos/git-github "**curso**").
