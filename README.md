@@ -14,6 +14,7 @@ de lana sinética con Machine Learning.
 * Trucos muy locos del profesor.
 * Las personalidades múltiples de Freddy.
 * Creado por mi.
+* Incluye ejemplos en Windows, Linux y Mac.
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado
 para el ejemplo. Si llegaste hasta aquí NO TE LO TOMES EN SERIO y
